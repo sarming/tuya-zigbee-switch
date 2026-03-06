@@ -339,6 +339,7 @@ CONFIGS = [
     "mzcp0of6;TS0003-MS;BC3u;LC2i;SD4u;RD2;SC1u;RC0;SC4u;RD7;",
     "tyg4yiat;TS0004-MS;BC3u;LC2i;SD4u;RD2;SC1u;RC0;SC4u;RD7;SB7u;RD3;",
     "c8wtsv3p;MS105-ZB-CUSTOM;BC2u;LD2i;SD3u;RD7;",
+    "ctftgjwb;TS0001-nous;BB4u;LB6i;SC2f;RD2;",
     "sonoff;ZBMINIL2-custom;BA0u;LC5i;SA6u;RA5A4;",
     "npzfdcof;TS0001-TLED;BD2u;LC3i;SB5u;RB4;",
     "rfexs4vs;TS0001-C;BA0u;LC0;SB4u;RC2;",
